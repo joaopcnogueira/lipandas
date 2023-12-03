@@ -1,0 +1,21 @@
+id,item,x,y,flag
+1,Item 1,2,1,False
+2,Item 2,4,4,True
+3,Item 3,6,9,False
+4,Item 4,8,16,True
+5,Item 5,10,25,False
+6,Item 6,12,36,True
+7,Item 7,14,49,False
+8,Item 8,16,64,True
+9,Item 9,18,81,False
+10,Item 10,20,100,True
+11,Item 11,22,121,False
+12,Item 12,24,144,True
+13,Item 13,26,169,False
+14,Item 14,28,196,True
+15,Item 15,30,225,False
+16,Item 16,32,256,True
+17,Item 17,34,289,False
+18,Item 18,36,324,True
+19,Item 19,38,361,False
+20,Item 20,40,400,True
